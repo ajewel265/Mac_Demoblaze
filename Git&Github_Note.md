@@ -9,7 +9,7 @@ GIT AND GITHUB
 2. First time push to Github:
 
 - git init
-- git remote add origin <url></url>
+- git remote add origin <url>
 - git add .
 - git commit -m “First commit”
 - git branch -M main
