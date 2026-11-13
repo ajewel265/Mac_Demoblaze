@@ -1,0 +1,14 @@
+{
+    "validUser": {
+        "username": "mileend",
+        "password": "mileend"
+    },
+    "validUser": {
+        "username": "mileend",
+        "password": "mileend123"
+    },
+    "invalidUser": {
+        "username": "MILEEND",
+        "password": "mileend"
+    }
+}
