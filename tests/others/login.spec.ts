@@ -1,5 +1,5 @@
 import{test,expect} from '@playwright/test'
-import { LoginPage } from '../../page/SwagLab_POM/LoginPage'
+import { LoginPage } from '../../page/SawgLab_POM/LoginPage'
 
 
 test('vaild login test', async ({ page }) => {
